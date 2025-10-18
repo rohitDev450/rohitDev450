@@ -41,67 +41,91 @@ I focus on **automating infrastructure**, **containerizing workloads**, and **op
 
 ## 🏗️ Featured Projects
 
-### 1️⃣ **DevSecOps Banking Application on AWS EKS**
-🧰 *AWS | Docker | Jenkins | Terraform | Prometheus | Grafana*  
-**Enterprise-grade banking app** deployed on AWS EKS with full CI/CD automation.
+### 1️⃣ **CodexHub-Mega-Project**
+🧰 *React | Node.js | MongoDB | Docker | Jenkins | Kubernetes*  
+A **cloud-native 3-tier application** demonstrating complete DevOps lifecycle — from code to container to Kubernetes.
 
 **Highlights:**
-- Achieved **99.9% uptime** using multi-AZ Kubernetes clusters  
-- Automated end-to-end deployment with Jenkins & Terraform  
-- Integrated **Trivy + SonarQube** for DevSecOps security scans  
-- Reduced release time from **2 hours → 15 minutes**
+- Automated CI/CD pipeline using **Jenkins**  
+- **Dockerized** all app components for portability  
+- Deployed on **Kubernetes** cluster for scalability and resilience  
+- End-to-end monitoring with **Prometheus + Grafana**
 
-🔗 [View Project](https://github.com/rohit-aute/devsecops-banking-app)
+🔗 [View Project](https://github.com/rohit-aute/CodexHub-Mega-Project)
 
 ---
 
-### 2️⃣ **Google Gemini Clone (DevSecOps Style)**
-🧰 *AWS EKS | Jenkins | ArgoCD | Terraform | Prometheus | Grafana*
+### 2️⃣ **ChatApp-k8s-deployment**
+🧰 *React | Node.js | MongoDB | Kubernetes (Minikube)*  
+A **real-time chat app** deployed on **Kubernetes**, showcasing your ability to manage deployments, services, and configs.
 
-**Key Achievements:**
-- Seamless GitOps deployments using **ArgoCD**
-- Automated vulnerability scans in CI/CD pipeline  
-- 95% reduction in deployment failures with auto-rollbacks  
-- Full observability stack with **Prometheus + Grafana**
+**Highlights:**
+- Hands-on **Kubernetes deployment** of full MERN stack  
+- Configured Pods, Services, and Ingress for routing  
+- Deployed on **Minikube cluster** for local orchestration demo  
+- Demonstrates **scaling, rolling updates, and service discovery**
 
-🔗 [View Project](https://github.com/rohit-aute/dev-gemini-clone)
+🔗 [View Project](https://github.com/rohit-aute/ChatApp-k8s-deployment)
 
 ---
 
-### 3️⃣ **Multi-Environment IaC Framework**
-🧰 *Terraform | Ansible | Terratest*
+### 3️⃣ **BookStore-App**
+🧰 *MERN Stack (MongoDB | Express | React | Node.js)*  
+A **responsive book management platform** with CRUD operations.
 
 **Highlights:**
-- Automated provisioning for dev, stage, prod  
-- Used **Terratest** to validate infra before deployment  
-- Modular codebase following DRY principles  
+- End-to-end **MERN stack** web app  
+- Mobile-responsive UI with efficient backend APIs  
+- Ready for Docker/Kubernetes deployment  
+- Demonstrates full-stack proficiency alongside DevOps
 
-🔗 [View Project](https://github.com/rohit-aute/multi-env-iac)
+🔗 [View Project](https://github.com/rohit-aute/BookStore-App)
 
 ---
 
-### 4️⃣ **AWS CodePipeline CI/CD for Node.js ToDo App**
-🧰 *AWS CodePipeline | CloudFormation | Node.js*
+### 4️⃣ **Jenkins_SharedLib**
+🧰 *Groovy | Jenkins*  
+Custom **Jenkins Shared Libraries** repository for reusable pipeline functions.
 
 **Highlights:**
-- Serverless CI/CD pipeline  
-- Zero-downtime **blue/green deployments**  
-- Automated test gating with **85%+ coverage**
+- Simplifies pipeline code across multiple projects  
+- Implements **standardized CI/CD stages** (Build, Test, Deploy)  
+- Promotes **pipeline-as-code** and modularity  
 
-🔗 [View Project](https://github.com/rohit-aute/aws-todo-ci-cd)
+🔗 [View Project](https://github.com/rohit-aute/Jenkins_SharedLib)
 
 ---
 
-### 5️⃣ **Online Shop with Terraform + GitHub Actions**
-🧰 *Terraform | Docker | GitHub Actions*
+### 5️⃣ **Python-InfraMonitor**
+🧰 *Python | APIs | Monitoring*  
+A monitoring tool prototype designed to fetch system or service metrics and trigger alerts.
 
 **Highlights:**
-- 50% faster releases with GitHub Actions  
-- Automated infra provisioning in under 30 minutes  
-- Notifications for deployment status  
-- Boosted reliability by 80%
+- Custom **Python-based infrastructure monitoring** logic  
+- Could integrate with **Prometheus exporters**  
+- Demonstrates scripting and automation skill  
 
-🔗 [View Project](https://github.com/rohit-aute/online-shop)
+🔗 [View Project](https://github.com/rohit-aute/Python-InfraMonitor)
+
+---
+
+### 6️⃣ **E-Commerce-Website**
+🧰 *HTML | CSS*  
+A static **e-commerce website** prototype showing frontend fundamentals and responsive design.
+
+🔗 [View Project](https://github.com/rohit-aute/E-Commerce-Website)
+
+---
+
+## 📊 GitHub Stats
+
+![Rohit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit-aute&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit-aute&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-aute&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohit-aute&theme=onedark)
+
+---
+
 
 ---
 
@@ -113,7 +137,7 @@ I focus on **automating infrastructure**, **containerizing workloads**, and **op
 ---
 
 ## 📬 Let's Connect
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [your-email@example.com](mailto:rohit.aute450@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/rohit-aute](https://linkedin.com/in/rohit-aute)  
 🐦 **Twitter:** [@rohit_aute](https://twitter.com/rohit_aute)  
 🌐 **Portfolio:** [https://rohit.engineer](https://rohit.engineer)
