@@ -1,4 +1,4 @@
-# 👨‍💻 Rohit Aute
+# 🧑‍💻 Rohit Aute
 
 🎯 **DevOps Engineer | Cloud & Automation Enthusiast**
 
@@ -42,7 +42,7 @@ I focus on **automating infrastructure**, **containerizing workloads**, and **op
 ## 🏗️ Featured Projects
 
 ### 1️⃣ **CodexHub-Mega-Project**
-🧰 *React | Node.js | MongoDB | Docker | Jenkins | Kubernetes*  
+ 🧱  *React | Node.js | MongoDB | Docker | Jenkins | Kubernetes*  
 A **cloud-native 3-tier application** demonstrating complete DevOps lifecycle — from code to container to Kubernetes.
 
 **Highlights:**
@@ -56,7 +56,7 @@ A **cloud-native 3-tier application** demonstrating complete DevOps lifecycle �
 ---
 
 ### 2️⃣ **ChatApp-k8s-deployment**
-🧰 *React | Node.js | MongoDB | Kubernetes (Minikube)*  
+ 💬  *React | Node.js | MongoDB | Kubernetes (Minikube)*  
 A **real-time chat app** deployed on **Kubernetes**, showcasing your ability to manage deployments, services, and configs.
 
 **Highlights:**
@@ -70,7 +70,7 @@ A **real-time chat app** deployed on **Kubernetes**, showcasing your ability to 
 ---
 
 ### 3️⃣ **BookStore-App**
-🧰 *MERN Stack (MongoDB | Express | React | Node.js)*  
+ 📚  *MERN Stack (MongoDB | Express | React | Node.js)*  
 A **responsive book management platform** with CRUD operations.
 
 **Highlights:**
@@ -84,7 +84,7 @@ A **responsive book management platform** with CRUD operations.
 ---
 
 ### 4️⃣ **Jenkins_SharedLib**
-🧰 *Groovy | Jenkins*  
+⚙️ *Groovy | Jenkins*  
 Custom **Jenkins Shared Libraries** repository for reusable pipeline functions.
 
 **Highlights:**
@@ -97,7 +97,7 @@ Custom **Jenkins Shared Libraries** repository for reusable pipeline functions.
 ---
 
 ### 5️⃣ **Python-InfraMonitor**
-🧰 *Python | APIs | Monitoring*  
+ 📈  *Python | APIs | Monitoring*  
 A monitoring tool prototype designed to fetch system or service metrics and trigger alerts.
 
 **Highlights:**
@@ -110,7 +110,7 @@ A monitoring tool prototype designed to fetch system or service metrics and trig
 ---
 
 ### 6️⃣ **E-Commerce-Website**
-🧰 *HTML | CSS*  
+ 🛒  *HTML | CSS*  
 A static **e-commerce website** prototype showing frontend fundamentals and responsive design.
 
 🔗 [View Project](https://github.com/rohit-aute/E-Commerce-Website)
