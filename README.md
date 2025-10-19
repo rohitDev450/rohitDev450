@@ -138,7 +138,7 @@ A static **e-commerce website** prototype showing frontend fundamentals and resp
 
 ## 📬 Let's Connect
 📧 **Email:** [rohit.aute450@gmail.com](mailto:rohit.aute450@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/rohit-aute](https://linkedin.com/in/rohit-aute)  
+💼 **LinkedIn:** [www.linkedin.com/in/rohit-aute-a5b529249](https://linkedin.com/in/rohit-aute)  
 🐦 **Twitter:** [@rohit_aute](https://twitter.com/rohit_aute)  
 🌐 **Portfolio:** [https://rohit.engineer](https://rohit.engineer)
 
